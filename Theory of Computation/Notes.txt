@@ -1,0 +1,4 @@
+1) 24/07/2020: Started with Automata Theory: What is language & it's string; Grammar and the languages associated with that it.
+	       Introduction to Automaton; Acceptors and Transistors.
+
+2) 25/07/2020: Deterministic Finite State Acceptors(DFAs) and Non-Deterministic Finite State Acceptors(NFAs), conversion from NFA->DFA.
