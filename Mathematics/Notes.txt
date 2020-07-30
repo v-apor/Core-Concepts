@@ -1,0 +1,23 @@
+1 08/06/2020: Started with Mathematics. 
+              - Factorization of Quadratic Equations and Polynomials Intro. (Online and NCERT IX)
+2 09/06/2020: Binomial: Algebraic exp with two non zero terms
+	      monomial: '' with only one non zero term
+	      Polynomials: '' with one or more terms (non zero)
+	      - Zero of a polynomeal: it's the value of variable (x) for which f(x) == 0
+		(Note: it denotes the places where the graph will cut the x axis (imagine f(x) is denoting value on Y axis
+		 and the value of x is X axis plot) -thanks to didi for explaining about graphs
+
+3: 10/06/2020: Polynomial division eg (3x^2+2x+1) % (x-1) using long division method.
+	       Remainder's Theorem: Let there be 2 polynomial P(x) and Q(x) where degree of P(x) > degree of Q(x),
+	       Then the remainder of P(x) % Q(x) equals to the value of P(x) for x = root(zero) of Q(x).
+	       This comes from the fact that while dividing something we get:
+		Dividend = (Divisor × Quotient) + Remainder
+		P(x) = Q(x)*Quotient + Remainder
+		So zero/root of Q(x) means for value of x = root, Q(x) is zero, hence if Q(x) will be zero in above 
+		equation then multiplying it with Quotient will also give value = 0 and only remainder will be remaining,
+		
+		Hence instead of long division, we can plug in the value of zero/root in Divident to quickly get the remainder....
+
+4: 19/07/2020: Intro to Calculus, how it all came to be + Derivatives
+
+5: 22/07/2020: Logarithms and it's derivation + conversions

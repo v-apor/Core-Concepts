@@ -1,0 +1,8 @@
+1: 19/07/2020:  Started with calculus: What is derivative and basics, Some rules of derivatives etc.
+	        Src: https://www.youtube.com/playlist?list=PLybg94GvOJ9ELZEe9s2NXTKr41Yedbw7M   
+                by Dave: Really great so far.
+
+2: 20/07/2020: Trignometric derivatives! 
+
+3: 21/07/2020: Composite(Nested) Functions Derivatives using chain rule
+	       [f(g(x))]' = f'(g(x))*g'(x)
