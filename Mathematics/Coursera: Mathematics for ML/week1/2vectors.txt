@@ -1,0 +1,14 @@
+Q1) What are vectors?
+- vectors are ordered list of numbers, they can represent multiple things.
+  eg it could represent coordinate [x, y], it could represent space time [x, y, z, t]
+  or more generally, it can represent parameters eg y=mx+c, with vector [m, c] 
+
+Q2) How vectors come into play while optimising?
+- we represent vectors [x, y] as initial parameter, 
+  then we slightly change it to [x',y'], if that results in less error (better result)
+  we keep nnudging in that direction and just the opposite if error increases.
+  So, basically vectors represent one set of value.
+  
+- We can graph it out (all possible values of result(error) for each combination of parameters)
+  to get a graph/contour. 
+  The point/vector with minimum error output is the most optimal value of parameter.

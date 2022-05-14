@@ -1,0 +1,18 @@
+Q1) Why linear Algebra?
+- It could help us some problems:
+    a) Solving simultaneous equations:
+       Price discovery (find price of items if multiple iteration of purchase)
+       eg. Buying 2 apples and 3 bananas for 8 euros.
+           Then buying 10 apples and 1 banana for 13 euros.
+           Now finding the price of each banana and apple.
+    b) Fitting an equation through data (curve fitting), i.e from data trying to create an equation
+       (or function) that represents data in good way, we can then get rid of data 
+       for privacy/storage issue and just use that equation. (followup quetion below #2)
+
+Q2) What is curve fitting?
+- https://www.youtube.com/watch?v=jevRLWC75k4
+- For any line/curve we try to find the value of the constants 
+  (eg line has 2 var "m" and "c" in straight line, y = mx + c)
+- These values determine how closely the equation fits the data. 
+  So basically curve fitting is a way of somehow finding value of m, c, a, b...
+  what we refer to as hyper parameters (maybe? check again)
